@@ -1,4 +1,4 @@
-# Full Stack Editor
+<!-- # Full Stack Editor
 
 ![Alt text](Full%20Stack%20Editor.png?raw=true "Title")
 
@@ -26,4 +26,4 @@ Personel Website : https://amitprajapati.co.in/
 
  Youtube : Dynamic Coding with Amit
 
- 
+  -->
