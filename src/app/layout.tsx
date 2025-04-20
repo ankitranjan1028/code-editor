@@ -15,8 +15,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "One Editor",
-  description: "Build space your team, your idea and your editor",
+  title: "Codezy",
+  description: "Build space your team, your idea and lets code",
 };
 
 export default function RootLayout({
