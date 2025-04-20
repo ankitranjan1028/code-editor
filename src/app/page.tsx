@@ -10,8 +10,8 @@ export default function Home() {
   const router = useRouter()
   return (
     <div
-      className="min-h-screen bg-gradient-to-b via-white from-white to-primary overflow-hidden
-  "
+      // className="min-h-screen bg-gradient-to-b via-white from-white to-primary overflow-hidden
+      className="min-h-screen bg-gradient-to-b from-purple-100 via-purple-300 to-purple-600 overflow-hidden"
     >
       <header className="h-20 flex items-center">
         <div className="container px-4 mx-auto flex items-center justify-between gap-4">
@@ -38,7 +38,7 @@ export default function Home() {
       </div>
 
       {/* <footer className="bg-black py-4 mt-6 text-neutral-200">
-        <p className="text-base font-semibold w-fit px-4 mx-auto">Made by <span className="text-primary">Dynamic Coding with Amit</span></p>
+        <p className="text-base font-semibold w-fit px-4 mx-auto">Made by <span className="text-primary"></span></p>
       </footer> */}
     </div>
   );
